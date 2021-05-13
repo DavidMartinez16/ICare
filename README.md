@@ -1,6 +1,6 @@
 # ICare Meetings
 
-A new Flutter project.
+This repository contains the source code for the app ICare Meetings, which is the platform for the health professional in the final proyect ICare.
 
 ## Getting Started
 
